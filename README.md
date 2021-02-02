@@ -11,6 +11,7 @@ If this becomes popular enough I will make a .deb and .rpm, however for now just
 
 # Dependencies
 `Fedora: dnf install python3 python3-gobject python3-psutil gtk3`
+
 `Debian/Ubuntu: apt install python3 python3-gi gir1.2-gtk-3.0 python3-psutil`
-`Arch/Manjaro: pacman -S python python-gobject gtk3 python-psutil
-`
+
+`Arch/Manjaro: pacman -S python python-gobject gtk3 python-psutil'
