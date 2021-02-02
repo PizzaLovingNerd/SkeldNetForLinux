@@ -4,6 +4,7 @@ This is a tool for Linux that allows you to play Among Us with (skeld.net)[https
 
 ## Known issues
 - "Launch Among Us" option doesn't just launches Steam's Among Us page, and not Among Us
+- Doesn't detect if the game isn't installed
 - UI isn't very good
 
 # How to install
