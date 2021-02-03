@@ -1,6 +1,8 @@
 # SkeldNetForLinux
 
-This is a tool for Linux that allows you to play Among Us with (skeld.net)[https://skeld.net/] modded servers.
+This is a tool for Linux that allows you to play Among Us with [skeld.net](https://skeld.net/) modded servers.
+
+![Pic of SkeldNetForLinux](https://i.imgur.com/SM2616C.png)
 
 ## Known issues
 - "Launch Among Us" option doesn't just launches Steam's Among Us page, and not Among Us
